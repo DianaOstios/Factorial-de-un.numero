@@ -1,0 +1,35 @@
+
+form{
+    height: 300px;
+    width: 250px;
+    border-style: solid;
+    border-color: beige;
+    border-radius: 5%;
+    margin: 90px 0 80px 500px;
+    padding: 30px 0px 0px 30px;
+
+}
+.Piepagina{
+    background-color: #69ED38;
+}
+#calculo{
+    margin-top: 20px;
+    height: 30px;
+    width: 150px;
+    border-radius: 5%;
+}
+#input1{
+    border-style: solid;
+    height: 30px;
+    width: 182px;
+    border-width: 0.5px;
+}
+#calculo{
+    margin-left: 15px;
+}
+.imgfooter{
+    width: 20px;
+    height: 20px;
+    margin: 10px 10px 10px 10px;
+}
+
